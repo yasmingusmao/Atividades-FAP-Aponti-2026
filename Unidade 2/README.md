@@ -20,15 +20,6 @@ O arquivo contém:
 - **Gráficos:** visualização dos resultados obtidos a partir das tabelas dinâmicas;
 - **Observações:** registro de percepções, padrões e informações relevantes identificadas durante a análise.
 
-## 🛠️ Ferramentas e recursos utilizados
-
-- **Microsoft Excel**
-- Tabelas
-- Dicionário de variáveis
-- Tabelas dinâmicas
-- Gráficos
-- Análise exploratória dos dados
-
 ## 🧠 Aprendizados
 
 Nesta etapa, foi possível compreender a importância de **organizar e conhecer a estrutura dos dados antes de realizar análises mais aprofundadas**.

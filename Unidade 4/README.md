@@ -31,4 +31,4 @@ A base bruta foi transformada em conjuntos de dados estruturados para **análise
 
 - Python
 - Pandas
-- Collab Notebook
+- Google Collab

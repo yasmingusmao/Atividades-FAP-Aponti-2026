@@ -1,14 +1,14 @@
-# 📊 Unidade 1 — Compreensão do Negócio
+# Unidade 1 — Compreensão do Negócio
 
 Esta unidade corresponde à etapa inicial do processo de **Análise de Dados**, com foco na **Compreensão do Negócio**, primeira etapa da metodologia **CRISP-DM (Cross Industry Standard Process for Data Mining)**.
 
-## 🎯 Objetivo
+## Objetivo
 
 Compreender o problema de negócio antes de iniciar efetivamente a análise dos dados, identificando o contexto, os objetivos, as necessidades e os possíveis caminhos para a solução do problema proposto.
 
 A atividade busca desenvolver a capacidade de transformar uma necessidade de negócio em **questões que possam ser investigadas e respondidas por meio de dados**.
 
-## 📚 Atividade desenvolvida
+## Atividade desenvolvida
 
 ### Documento de Compreensão do Negócio
 
@@ -22,13 +22,13 @@ A atividade contempla a reflexão sobre:
 - Questões que podem ser respondidas por meio dos dados;
 - Possíveis direcionamentos para as etapas seguintes do projeto.
 
-## 🧠 Aprendizados
+## Aprendizados
 
 Nesta etapa, o principal aprendizado foi compreender que uma análise de dados não começa diretamente pela manipulação de planilhas ou pela criação de gráficos. Antes disso, é necessário **entender o problema que os dados precisam ajudar a solucionar**.
 
 A atividade também permitiu conhecer o **CRISP-DM** como uma metodologia para organizar o processo de análise e compreender a importância de estabelecer objetivos claros antes das etapas de preparação, exploração e modelagem dos dados.
 
-## 📁 Arquivo
+## Arquivo
 
 - `Yasmin - Documento de Compreensão do Negócio` — documento desenvolvido durante a atividade da Unidade 1.
 
